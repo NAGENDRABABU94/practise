@@ -1,0 +1,30 @@
+#!/bin/bash
+
+
+for loop
+nested loops
+until
+select
+while
+do 
+
+
+list of add n
+
+
+list[10}={1,2,3,4,5,6,7,8,9,10]
+
+read n
+if [' expr &n % 2' == 0]
+then 
+
+echo "$n is even"
+
+else
+ echo "$n is odd"
+fi
+
+
+
+sed -e filname | grep "nagendra"| awk  Print{2}  > sample.txt
+
